@@ -60,8 +60,7 @@ dkms.conf
 *.dep
 *.uvguix.*
 *.uvoptx
-*.uvprojx
-*JLinkLog.txt
+
 *.crf
 *.tra   
 *.axf
@@ -78,3 +77,5 @@ dkms.conf
 *.asm
 *.ini
 *.scvd
+*.iex
+
