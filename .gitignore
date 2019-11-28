@@ -58,7 +58,9 @@ dkms.conf
 *.plg
 *.bak
 *.dep
-*.uvgui.*
+*.uvguix.*
+*.uvoptx
+*.uvprojx
 *JLinkLog.txt
 *.crf
 *.tra   
@@ -72,4 +74,7 @@ dkms.conf
 *.png
 *.s
 *.map
-
+*.dbgconf
+*.asm
+*.ini
+*.scvd
