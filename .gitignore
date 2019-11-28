@@ -54,20 +54,22 @@ dkms.conf
 =======
 !*.c
 !*.h
-   *.log
-   *.plg
-   *.bak
-   *.dep
-   *.uvgui.*
-   JLinkLog.txt
-   *.o
-   *.d
-   *.crf
-   *.tra
-   *.axf
-   *.hex
-   *.lnp
-   *.sct
-   *.__i
-   *.htm
->>>>>>> second commit
+*.log
+*.plg
+*.bak
+*.dep
+*.uvgui.*
+*JLinkLog.txt
+*.crf
+*.tra   
+*.axf
+*.lnp
+*.sct
+*.__i
+*.htm
+*.bat
+*.lst
+*.png
+*.s
+*.map
+
