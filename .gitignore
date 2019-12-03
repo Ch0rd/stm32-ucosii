@@ -59,8 +59,7 @@ dkms.conf
 *.bak
 *.dep
 *.uvguix.*
-*.uvoptx
-
+OBJ/
 *.crf
 *.tra   
 *.axf
@@ -74,7 +73,6 @@ dkms.conf
 *.s
 *.map
 *.dbgconf
-*.asm
 *.ini
 *.scvd
 *.iex
